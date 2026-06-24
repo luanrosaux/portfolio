@@ -3908,12 +3908,12 @@ img {
 .brand-logo {
   display: block;
   width: auto;
-  height: 28px;
+  height: 46px;
   max-width: min(46vw, 220px);
 }
 
 .site-footer .brand-logo {
-  height: 24px;
+  height: 46px;
   max-width: min(42vw, 190px);
 }
 
@@ -3931,19 +3931,19 @@ img {
 
 @media (max-width: 980px) {
   .brand-logo {
-    height: 24px;
+    height: 46px;
     max-width: min(56vw, 190px);
   }
 
   .site-footer .brand-logo {
-    height: 22px;
+    height: 46px;
     max-width: min(52vw, 180px);
   }
 }
 
 @media (max-width: 640px) {
   .brand-logo {
-    height: 22px;
+    height: 46px;
     max-width: min(62vw, 170px);
   }
 }
