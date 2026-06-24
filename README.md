@@ -127,3 +127,11 @@ V27 correction: applied restoration to the current logo wall markup.
 ## V29
 
 Replaced the site logo and favicon with the user-provided brand files. Added local favicon assets (16, 32, 48, 180, 192, 512, ICO), replaced header/footer brand marks with the new logo image, and updated social preview image references.
+
+## V30
+
+Removed `_redirects` to prevent Cloudflare Pages clean URL redirect loops and converted internal links to clean URLs that use the generated folder `index.html` copies.
+
+## V31
+
+Increased the header logo height to 46px on desktop, with responsive reductions on tablet/mobile to keep the header layout stable.

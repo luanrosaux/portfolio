@@ -1,0 +1,14 @@
+{
+  "redirects_file_existed_before_fix": true,
+  "removed_redirects_file": true,
+  "changed_internal_links_to_clean_urls": 969,
+  "missing_internal_link_target_count": 1,
+  "missing_internal_link_targets": [
+    [
+      "index.html",
+      "portfolio/",
+      "portfolio/index.html"
+    ]
+  ],
+  "recommendation": "Redeploy this package to Cloudflare Pages. If browser still shows ERR_TOO_MANY_REDIRECTS, purge cache and test in an incognito window."
+}
