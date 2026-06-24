@@ -10,5 +10,6 @@
       "portfolio/index.html"
     ]
   ],
-  "recommendation": "Redeploy this package to Cloudflare Pages. If browser still shows ERR_TOO_MANY_REDIRECTS, purge cache and test in an incognito window."
+  "recommendation": "Redeploy this package to Cloudflare Pages. If browser still shows ERR_TOO_MANY_REDIRECTS, purge cache and test in an incognito window.",
+  "v32_csp_fix": "Added https://upload.wikimedia.org to img-src because Wikimedia logo URLs redirect from commons.wikimedia.org / wikipedia.org to upload.wikimedia.org."
 }

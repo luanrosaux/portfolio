@@ -27,5 +27,6 @@
     "No static site can be guaranteed impossible to DDoS; deploy behind Cloudflare/Netlify/Vercel CDN protections and keep account 2FA enabled.",
     "Three logo wordmarks were recreated as local SVGs because the remote sources did not expose downloadable non-AVIF/non-watermarked image files in this environment."
   ],
-  "v27_logo_wall_note": "Company logo wall restored to previous brand logo sources by request. Article and case images remain local; external img sources are expected only in the company logo wall."
+  "v27_logo_wall_note": "Company logo wall restored to previous brand logo sources by request. Article and case images remain local; external img sources are expected only in the company logo wall.",
+  "v32_csp_fix": "Added https://upload.wikimedia.org to img-src because Wikimedia logo URLs redirect from commons.wikimedia.org / wikipedia.org to upload.wikimedia.org."
 }

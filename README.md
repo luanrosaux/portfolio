@@ -135,3 +135,11 @@ Removed `_redirects` to prevent Cloudflare Pages clean URL redirect loops and co
 ## V31
 
 Increased the header logo height to 46px on desktop, with responsive reductions on tablet/mobile to keep the header layout stable.
+
+## V32
+
+Fixed CSP for restored company logos by adding `https://upload.wikimedia.org` to `img-src`. This prevents Wikimedia-hosted logos from being blocked after redirecting from `commons.wikimedia.org` or `uk.wikipedia.org`.
+
+## V33
+
+Cleaned the logo CSS by removing the V31 `!important` override block and consolidating logo height/max-width values directly into the original `.brand-logo` rules.
