@@ -1,0 +1,16 @@
+{
+  "version": "v38",
+  "purpose": "Make internal links use canonical trailing-slash URLs directly, avoiding visible no-slash redirect hops.",
+  "links_changed_to_trailing_slash": 0,
+  "changed_examples": [],
+  "non_slash_page_links_remaining_count": 0,
+  "non_slash_page_links_remaining": [],
+  "missing_internal_link_targets_count": 0,
+  "missing_internal_link_targets": [],
+  "redirects_file_kept_as_fallback": true,
+  "expected_behavior": [
+    "Internal case links should open as /cases/<slug>/",
+    "Internal article links should open as /articles/<slug>/",
+    "Fallback redirects remain for manually typed no-slash URLs."
+  ]
+}

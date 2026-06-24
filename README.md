@@ -159,3 +159,7 @@ Converted site to clean directory routes only for Cloudflare Pages, removing `.h
 ## V37
 
 Added explicit Cloudflare Pages redirects from clean URLs without trailing slash to trailing slash versions, preserving clean directory routing.
+
+## V38
+
+Updated all internal page links to use trailing-slash canonical URLs directly, so cards and navigation open `/cases/slug/` and `/articles/slug/` without relying on redirect fallback.
