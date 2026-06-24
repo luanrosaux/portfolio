@@ -1,0 +1,31 @@
+{
+  "summary": "Static-site accessibility, SEO, security, asset-localization and performance audit for Luan Rosa portfolio - V26",
+  "checks": {
+    "html_pages": 31,
+    "missing_title": [],
+    "missing_description": [],
+    "missing_lang": [],
+    "img_missing_alt": [],
+    "duplicate_ids": [],
+    "inline_event_handlers": [],
+    "external_img_sources": [],
+    "external_css_images": [],
+    "external_iframes": [
+      "https://www.youtube.com/embed/MZOK_gDRHmI"
+    ],
+    "broken_local_images": []
+  },
+  "security_headers": "See _headers, netlify.toml, vercel.json and .htaccess. CSP img-src is restricted to self/data/blob only.",
+  "performance_notes": [
+    "All case/article/logo image references are local to the repository.",
+    "Long-cache headers added for assets, CSS and JS.",
+    "Local image width/height attributes added where available to reduce layout shift.",
+    "Responsive CSS and reduced-motion support retained."
+  ],
+  "limits": [
+    "The embedded YouTube iframe remains external by design.",
+    "No static site can be guaranteed impossible to DDoS; deploy behind Cloudflare/Netlify/Vercel CDN protections and keep account 2FA enabled.",
+    "Three logo wordmarks were recreated as local SVGs because the remote sources did not expose downloadable non-AVIF/non-watermarked image files in this environment."
+  ],
+  "v27_logo_wall_note": "Company logo wall restored to previous brand logo sources by request. Article and case images remain local; external img sources are expected only in the company logo wall."
+}

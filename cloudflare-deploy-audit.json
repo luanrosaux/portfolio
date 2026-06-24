@@ -1,0 +1,22 @@
+{
+  "index.html": true,
+  "css/style.css": true,
+  "js/script.js": true,
+  "articles.html": true,
+  "articles/jogos-ficaram-burros-design-melhor.html": true,
+  "cases/streamlining-the-b2b-cycle.html": true,
+  "assets/images/articles/01-meio-noob-game-ux.webp": false,
+  "clean_url_copies_created": 30,
+  "clean_url_examples": [
+    "about/index.html",
+    "articles/articulate-design-decisions/index.html",
+    "articles/asking-feedback-ui-ux-designer/index.html",
+    "articles/battlefield-game-ux-analysis/index.html",
+    "articles/best-tool-ui-ux-designer/index.html",
+    "articles/cities-skylines-main-menu-redesign/index.html",
+    "articles/core-ux-design-principles/index.html",
+    "articles/death-stranding-emotional-journey/index.html",
+    "articles/design-conversations-with-stakeholders/index.html",
+    "articles/designer-to-code-or-not-to-code/index.html"
+  ]
+}

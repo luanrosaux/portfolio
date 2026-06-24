@@ -1,0 +1,32 @@
+# Cloudflare Pages / Netlify redirects
+# Keep .html URLs available and support clean URLs.
+/about /about.html 200
+/articles/articulate-design-decisions /articles/articulate-design-decisions.html 200
+/articles/asking-feedback-ui-ux-designer /articles/asking-feedback-ui-ux-designer.html 200
+/articles/battlefield-game-ux-analysis /articles/battlefield-game-ux-analysis.html 200
+/articles/best-tool-ui-ux-designer /articles/best-tool-ui-ux-designer.html 200
+/articles/cities-skylines-main-menu-redesign /articles/cities-skylines-main-menu-redesign.html 200
+/articles/core-ux-design-principles /articles/core-ux-design-principles.html 200
+/articles/death-stranding-emotional-journey /articles/death-stranding-emotional-journey.html 200
+/articles/design-conversations-with-stakeholders /articles/design-conversations-with-stakeholders.html 200
+/articles/designer-to-code-or-not-to-code /articles/designer-to-code-or-not-to-code.html 200
+/articles/dynamic-difficulty-adjustment-gaming /articles/dynamic-difficulty-adjustment-gaming.html 200
+/articles/essential-skills-ux-designer /articles/essential-skills-ux-designer.html 200
+/articles/gaming-and-artificial-intelligence /articles/gaming-and-artificial-intelligence.html 200
+/articles/impostor-syndrome-designer /articles/impostor-syndrome-designer.html 200
+/articles/jogos-ficaram-burros-design-melhor /articles/jogos-ficaram-burros-design-melhor.html 200
+/articles/journey-into-unity /articles/journey-into-unity.html 200
+/articles/mainstream-ux-vs-game-ux /articles/mainstream-ux-vs-game-ux.html 200
+/articles/mastering-game-ux /articles/mastering-game-ux.html 200
+/articles/product-owner-ux-designer-relationship /articles/product-owner-ux-designer-relationship.html 200
+/articles/strategic-design-in-3-steps /articles/strategic-design-in-3-steps.html 200
+/articles/understanding-users-with-personas /articles/understanding-users-with-personas.html 200
+/articles/usability-testing-actionable-insights /articles/usability-testing-actionable-insights.html 200
+/articles /articles.html 200
+/cases/class-management-system /cases/class-management-system.html 200
+/cases/designing-360-performance-review /cases/designing-360-performance-review.html 200
+/cases/fortnite-progressive-companion-app /cases/fortnite-progressive-companion-app.html 200
+/cases/founders-network-design-system /cases/founders-network-design-system.html 200
+/cases/learning-management-system /cases/learning-management-system.html 200
+/cases/modernizing-a-legal-ecosystem /cases/modernizing-a-legal-ecosystem.html 200
+/cases/streamlining-the-b2b-cycle /cases/streamlining-the-b2b-cycle.html 200
