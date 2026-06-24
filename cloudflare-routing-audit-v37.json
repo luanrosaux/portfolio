@@ -1,0 +1,23 @@
+{
+  "version": "v37-final",
+  "redirect_count": 30,
+  "redirect_examples": [
+    "/about /about/ 301",
+    "/articles/articulate-design-decisions /articles/articulate-design-decisions/ 301",
+    "/articles/asking-feedback-ui-ux-designer /articles/asking-feedback-ui-ux-designer/ 301",
+    "/articles/battlefield-game-ux-analysis /articles/battlefield-game-ux-analysis/ 301",
+    "/articles/best-tool-ui-ux-designer /articles/best-tool-ui-ux-designer/ 301",
+    "/articles/cities-skylines-main-menu-redesign /articles/cities-skylines-main-menu-redesign/ 301",
+    "/articles/core-ux-design-principles /articles/core-ux-design-principles/ 301",
+    "/articles/death-stranding-emotional-journey /articles/death-stranding-emotional-journey/ 301"
+  ],
+  "non_index_html_pages_remaining": [],
+  "missing_internal_link_targets_count": 0,
+  "missing_internal_link_targets": [],
+  "test_urls": [
+    "/cases/streamlining-the-b2b-cycle",
+    "/cases/streamlining-the-b2b-cycle/",
+    "/articles/jogos-ficaram-burros-design-melhor",
+    "/articles/jogos-ficaram-burros-design-melhor/"
+  ]
+}

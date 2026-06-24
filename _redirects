@@ -1,32 +1,34 @@
-# Cloudflare Pages / Netlify redirects
-# Keep .html URLs available and support clean URLs.
-/about /about.html 200
-/articles/articulate-design-decisions /articles/articulate-design-decisions.html 200
-/articles/asking-feedback-ui-ux-designer /articles/asking-feedback-ui-ux-designer.html 200
-/articles/battlefield-game-ux-analysis /articles/battlefield-game-ux-analysis.html 200
-/articles/best-tool-ui-ux-designer /articles/best-tool-ui-ux-designer.html 200
-/articles/cities-skylines-main-menu-redesign /articles/cities-skylines-main-menu-redesign.html 200
-/articles/core-ux-design-principles /articles/core-ux-design-principles.html 200
-/articles/death-stranding-emotional-journey /articles/death-stranding-emotional-journey.html 200
-/articles/design-conversations-with-stakeholders /articles/design-conversations-with-stakeholders.html 200
-/articles/designer-to-code-or-not-to-code /articles/designer-to-code-or-not-to-code.html 200
-/articles/dynamic-difficulty-adjustment-gaming /articles/dynamic-difficulty-adjustment-gaming.html 200
-/articles/essential-skills-ux-designer /articles/essential-skills-ux-designer.html 200
-/articles/gaming-and-artificial-intelligence /articles/gaming-and-artificial-intelligence.html 200
-/articles/impostor-syndrome-designer /articles/impostor-syndrome-designer.html 200
-/articles/jogos-ficaram-burros-design-melhor /articles/jogos-ficaram-burros-design-melhor.html 200
-/articles/journey-into-unity /articles/journey-into-unity.html 200
-/articles/mainstream-ux-vs-game-ux /articles/mainstream-ux-vs-game-ux.html 200
-/articles/mastering-game-ux /articles/mastering-game-ux.html 200
-/articles/product-owner-ux-designer-relationship /articles/product-owner-ux-designer-relationship.html 200
-/articles/strategic-design-in-3-steps /articles/strategic-design-in-3-steps.html 200
-/articles/understanding-users-with-personas /articles/understanding-users-with-personas.html 200
-/articles/usability-testing-actionable-insights /articles/usability-testing-actionable-insights.html 200
-/articles /articles.html 200
-/cases/class-management-system /cases/class-management-system.html 200
-/cases/designing-360-performance-review /cases/designing-360-performance-review.html 200
-/cases/fortnite-progressive-companion-app /cases/fortnite-progressive-companion-app.html 200
-/cases/founders-network-design-system /cases/founders-network-design-system.html 200
-/cases/learning-management-system /cases/learning-management-system.html 200
-/cases/modernizing-a-legal-ecosystem /cases/modernizing-a-legal-ecosystem.html 200
-/cases/streamlining-the-b2b-cycle /cases/streamlining-the-b2b-cycle.html 200
+# Cloudflare Pages redirects - V37
+# Fix no-trailing-slash URLs without redirecting to .html.
+# Example: /cases/foo -> /cases/foo/
+
+/about /about/ 301
+/articles/articulate-design-decisions /articles/articulate-design-decisions/ 301
+/articles/asking-feedback-ui-ux-designer /articles/asking-feedback-ui-ux-designer/ 301
+/articles/battlefield-game-ux-analysis /articles/battlefield-game-ux-analysis/ 301
+/articles/best-tool-ui-ux-designer /articles/best-tool-ui-ux-designer/ 301
+/articles/cities-skylines-main-menu-redesign /articles/cities-skylines-main-menu-redesign/ 301
+/articles/core-ux-design-principles /articles/core-ux-design-principles/ 301
+/articles/death-stranding-emotional-journey /articles/death-stranding-emotional-journey/ 301
+/articles/design-conversations-with-stakeholders /articles/design-conversations-with-stakeholders/ 301
+/articles/designer-to-code-or-not-to-code /articles/designer-to-code-or-not-to-code/ 301
+/articles/dynamic-difficulty-adjustment-gaming /articles/dynamic-difficulty-adjustment-gaming/ 301
+/articles/essential-skills-ux-designer /articles/essential-skills-ux-designer/ 301
+/articles/gaming-and-artificial-intelligence /articles/gaming-and-artificial-intelligence/ 301
+/articles/impostor-syndrome-designer /articles/impostor-syndrome-designer/ 301
+/articles /articles/ 301
+/articles/jogos-ficaram-burros-design-melhor /articles/jogos-ficaram-burros-design-melhor/ 301
+/articles/journey-into-unity /articles/journey-into-unity/ 301
+/articles/mainstream-ux-vs-game-ux /articles/mainstream-ux-vs-game-ux/ 301
+/articles/mastering-game-ux /articles/mastering-game-ux/ 301
+/articles/product-owner-ux-designer-relationship /articles/product-owner-ux-designer-relationship/ 301
+/articles/strategic-design-in-3-steps /articles/strategic-design-in-3-steps/ 301
+/articles/understanding-users-with-personas /articles/understanding-users-with-personas/ 301
+/articles/usability-testing-actionable-insights /articles/usability-testing-actionable-insights/ 301
+/cases/class-management-system /cases/class-management-system/ 301
+/cases/designing-360-performance-review /cases/designing-360-performance-review/ 301
+/cases/fortnite-progressive-companion-app /cases/fortnite-progressive-companion-app/ 301
+/cases/founders-network-design-system /cases/founders-network-design-system/ 301
+/cases/learning-management-system /cases/learning-management-system/ 301
+/cases/modernizing-a-legal-ecosystem /cases/modernizing-a-legal-ecosystem/ 301
+/cases/streamlining-the-b2b-cycle /cases/streamlining-the-b2b-cycle/ 301

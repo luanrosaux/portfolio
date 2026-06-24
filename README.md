@@ -155,3 +155,7 @@ Finalized Cloudflare routing fix: removed clean URL duplicates and `_redirects`,
 ## V36
 
 Converted site to clean directory routes only for Cloudflare Pages, removing `.html` duplicate pages and `_redirects` to prevent redirect loops.
+
+## V37
+
+Added explicit Cloudflare Pages redirects from clean URLs without trailing slash to trailing slash versions, preserving clean directory routing.
