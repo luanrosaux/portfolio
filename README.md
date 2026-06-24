@@ -143,3 +143,11 @@ Fixed CSP for restored company logos by adding `https://upload.wikimedia.org` to
 ## V33
 
 Cleaned the logo CSS by removing the V31 `!important` override block and consolidating logo height/max-width values directly into the original `.brand-logo` rules.
+
+## V34
+
+Fixed Cloudflare Pages redirect loops on case/article pages by removing generated clean URL directory copies, removing `_redirects`, and reverting internal navigation to explicit `.html` URLs.
+
+## V35
+
+Finalized Cloudflare routing fix: removed clean URL duplicates and `_redirects`, reverted all internal navigation to explicit `.html` routes, and fixed nested home links.

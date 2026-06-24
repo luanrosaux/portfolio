@@ -1,0 +1,17 @@
+{
+  "version": "v35",
+  "purpose": "Cloudflare Pages fix: explicit .html routes only, no clean URL duplicate directories, no _redirects.",
+  "fixed_corrupt_home_links_from_previous_clean_url_pass": 238,
+  "removed_redirects_file": true,
+  "remaining_non_root_index_html_copies": [],
+  "missing_internal_link_targets_count": 0,
+  "missing_internal_link_targets": [],
+  "recommended_test_urls": [
+    "/",
+    "/about.html",
+    "/articles.html",
+    "/cases/streamlining-the-b2b-cycle.html",
+    "/articles/jogos-ficaram-burros-design-melhor.html"
+  ],
+  "fixed_missing_portfolio_link_to_work_anchor": 1
+}
