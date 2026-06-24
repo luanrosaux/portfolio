@@ -151,3 +151,7 @@ Fixed Cloudflare Pages redirect loops on case/article pages by removing generate
 ## V35
 
 Finalized Cloudflare routing fix: removed clean URL duplicates and `_redirects`, reverted all internal navigation to explicit `.html` routes, and fixed nested home links.
+
+## V36
+
+Converted site to clean directory routes only for Cloudflare Pages, removing `.html` duplicate pages and `_redirects` to prevent redirect loops.

@@ -1,152 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://luanrosa.com/about.html</loc>
+    <loc>https://luanrosa.com/about</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://luanrosa.com/articles/articulate-design-decisions.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/asking-feedback-ui-ux-designer.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/battlefield-game-ux-analysis.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/best-tool-ui-ux-designer.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/cities-skylines-main-menu-redesign.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/core-ux-design-principles.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/death-stranding-emotional-journey.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/design-conversations-with-stakeholders.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/designer-to-code-or-not-to-code.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/dynamic-difficulty-adjustment-gaming.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/essential-skills-ux-designer.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/gaming-and-artificial-intelligence.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/impostor-syndrome-designer.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/jogos-ficaram-burros-design-melhor.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/journey-into-unity.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/mainstream-ux-vs-game-ux.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/mastering-game-ux.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/product-owner-ux-designer-relationship.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/strategic-design-in-3-steps.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/understanding-users-with-personas.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles/usability-testing-actionable-insights.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luanrosa.com/articles.html</loc>
+    <loc>https://luanrosa.com/articles</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://luanrosa.com/cases/class-management-system.html</loc>
+    <loc>https://luanrosa.com/articles/articulate-design-decisions</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://luanrosa.com/cases/designing-360-performance-review.html</loc>
+    <loc>https://luanrosa.com/articles/asking-feedback-ui-ux-designer</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://luanrosa.com/cases/fortnite-progressive-companion-app.html</loc>
+    <loc>https://luanrosa.com/articles/battlefield-game-ux-analysis</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://luanrosa.com/cases/founders-network-design-system.html</loc>
+    <loc>https://luanrosa.com/articles/best-tool-ui-ux-designer</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://luanrosa.com/cases/learning-management-system.html</loc>
+    <loc>https://luanrosa.com/articles/cities-skylines-main-menu-redesign</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://luanrosa.com/cases/modernizing-a-legal-ecosystem.html</loc>
+    <loc>https://luanrosa.com/articles/core-ux-design-principles</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://luanrosa.com/cases/streamlining-the-b2b-cycle.html</loc>
+    <loc>https://luanrosa.com/articles/death-stranding-emotional-journey</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/articles/design-conversations-with-stakeholders</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/articles/designer-to-code-or-not-to-code</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/articles/dynamic-difficulty-adjustment-gaming</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/articles/essential-skills-ux-designer</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/articles/gaming-and-artificial-intelligence</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/articles/impostor-syndrome-designer</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/articles/jogos-ficaram-burros-design-melhor</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/articles/journey-into-unity</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/articles/mainstream-ux-vs-game-ux</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/articles/mastering-game-ux</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/articles/product-owner-ux-designer-relationship</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/articles/strategic-design-in-3-steps</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/articles/understanding-users-with-personas</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/articles/usability-testing-actionable-insights</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/cases/class-management-system</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/cases/designing-360-performance-review</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/cases/fortnite-progressive-companion-app</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/cases/founders-network-design-system</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/cases/learning-management-system</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/cases/modernizing-a-legal-ecosystem</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://luanrosa.com/cases/streamlining-the-b2b-cycle</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

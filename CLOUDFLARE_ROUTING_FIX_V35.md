@@ -1,11 +1,22 @@
-# Cloudflare Pages routing fix - V35
+# Cloudflare Pages routing fix - V36
 
-This version uses explicit `.html` URLs only and removes clean URL duplicate directory copies.
+This version uses ONLY clean directory routes.
 
-Why this fixes ERR_TOO_MANY_REDIRECTS:
-- Previous packages included both `/cases/example.html` and `/cases/example/index.html`.
-- Cloudflare Pages can normalize/canonicalize clean URLs and create a redirect loop when both route styles exist.
-- V35 keeps only the real `.html` files and removes `_redirects`.
+Examples:
+- `/about/` -> `about/index.html`
+- `/articles/` -> `articles/index.html`
+- `/cases/designing-360-performance-review/` -> `cases/designing-360-performance-review/index.html`
+
+It intentionally removes:
+- `_redirects`
+- `/about.html`
+- `/articles.html`
+- `/cases/*.html`
+- `/articles/*.html`
+
+Why:
+Your browser was opening `/cases/designing-360-performance-review` without `.html`.
+Cloudflare Pages works best when that path has a real directory target instead of competing `.html` and directory versions.
 
 Deploy settings:
 - Framework preset: None
@@ -13,11 +24,21 @@ Deploy settings:
 - Build output directory: `.`
 - Root directory: empty or `/`
 
-Test URLs:
-- `/`
-- `/about.html`
-- `/articles.html`
-- `/cases/streamlining-the-b2b-cycle.html`
-- `/articles/jogos-ficaram-burros-design-melhor.html`
+IMPORTANT when updating GitHub:
+Delete the old repo files before copying this version, otherwise old `.html` files may remain and the loop can persist.
 
-After redeploy, test in incognito or hard refresh with Ctrl + Shift + R.
+Safe local update command from inside your repo:
+```
+find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+# then copy the CONTENTS of this package into the repo
+git add -A
+git commit -m "Fix Cloudflare clean routing"
+git push
+```
+
+Test:
+- `/`
+- `/about/`
+- `/articles/`
+- `/cases/designing-360-performance-review/`
+- `/articles/jogos-ficaram-burros-design-melhor/`
