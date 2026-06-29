@@ -3354,6 +3354,23 @@ button.button,
   transform: rotate(-1deg);
 }
 
+.hero h1 .title-highlight {
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  padding-inline: 0.03em;
+  background: linear-gradient(
+    to bottom,
+    transparent 58%,
+    rgba(215, 255, 79, 0.72) 58%,
+    rgba(215, 255, 79, 0.72) 86%,
+    transparent 86%
+  );
+}
+
+.hero h1 .title-highlight::after {
+  display: none;
+}
+
 .case-highlighted .title-highlight::after,
 .article-theme-2 .title-highlight::after,
 .article-theme-5 .title-highlight::after,
